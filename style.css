@@ -63,11 +63,11 @@ footer{
   padding-top: 20px;
   color: #CCC;
 }
-nav a: hover{
+nav a:hover{
   text-decoration: underline;
   color: #0056b3;
 }
-header a: hover {
+header a:hover {
   text-decoration: underline;
 }
 .questions {
@@ -92,7 +92,7 @@ header a: hover {
   padding: 18px;
   font-size: 20px;
 }
-btn a: hover {
+btn a:hover {
   background-color: #0069d9;
   border-color: #0069d9;
 }
